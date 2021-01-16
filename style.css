@@ -33,11 +33,16 @@
 }
 
 html {
-    background-color: #636f61;
+    /* background-color: #636f61; */
     line-height: 25px;
     font-family: "LEMON MILK";
     color: rgba(0, 0, 0, 0.5);
     letter-spacing: 6px;
+}
+
+.bg-video {
+    height: 100vh;
+    width: 100vw;
 }
 
 .todo-background {
